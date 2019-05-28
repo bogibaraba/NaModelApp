@@ -1,4 +1,9 @@
-# NaModelApp
+# NaModelApp(Qt based)
+
+!!! This is the fork for work due to problem with git username( dont ask why) 
+!!! Main repo will be moved to (https://github.com/bogdanmaletic/NaModelApp)
+
+
 Network Analyzer Simulator (Agilent E5062A based) Qt 
 
 * Windows build with vc++ redist library packaged
@@ -10,7 +15,8 @@ First Version, stable
 usage manual in serbian, but it tries to conform app notes
 
 
-Linux build in work
+Linux build in work(problem with end users without dev enviroment, tested on ubuntu 18.04 built from source)
+
 
 ![Izgled Programa](https://github.com/bogibaraba/NaModelApp/blob/master/images/slikeZaUputstvo/Slika1IzgledPrograma.png)
 
